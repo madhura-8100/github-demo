@@ -10,3 +10,6 @@ def multiply(x,y):
 #Divide Implementation
 def divide(x,y):
     pass
+# square Implementation    
+def square(x):
+    return x*x
